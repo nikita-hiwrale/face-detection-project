@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Recognition Project 👁️
 
 This project uses Python to detect and recognize faces using webcam.
@@ -20,3 +21,7 @@ This project uses Python to detect and recognize faces using webcam.
 
 ## Author
 Nikita
+=======
+# face-detection-project
+Built a real-time face detection system using Python and OpenCV 
+>>>>>>> 4944c5c9c50677ee2773411d8ce6d91663bfb7ec
